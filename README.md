@@ -1,8 +1,7 @@
 # app-dev
 My first repository
 {
-  "firstName": "Josh",
-  "lastName": "Natividad",
-  "age": 19
-  "favoriteMovie": "Ang pangarap kong holdap"
+
+  "favoriteMovie": "Ang pangarap kong holdap",
+  "favoriteFoods": "Adobong baboy"
 }
